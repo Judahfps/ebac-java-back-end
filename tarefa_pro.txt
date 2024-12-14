@@ -1,0 +1,11 @@
+
+Programação Procedural:
+ Estrutura seu código em procedimentos ou funções, e o foco estar na sequência de cada instruções
+ que o programa deve fazer.
+
+
+Programação Orientado a Objetos:
+
+Estrutura seu código na criação de classes que representa o mundo real, e cada classe define um tipo de objeto
+e o que esse objeto vai fazer.
+
