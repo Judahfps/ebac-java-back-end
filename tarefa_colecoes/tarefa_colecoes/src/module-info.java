@@ -4,5 +4,5 @@
 /**
  * 
  */
-module tarefa_modulo9 {
+module tarefa_colecoes {
 }
